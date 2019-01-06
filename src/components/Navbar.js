@@ -55,14 +55,11 @@ const Navbar = class extends React.Component {
         <Link className="navbar-item" to="/contact">
           Contact
         </Link>
-        <Link className="navbar-item" to="/contact/examples">
-          Form Examples
-        </Link>
       </div>
       <div className="navbar-end has-text-centered">
         <a
           className="navbar-item"
-          href="https://github.com/AustinGreen/gatsby-netlify-cms-boilerplate"
+          href="https://github.com/skillcenter/skill-center.org"
           target="_blank"
           rel="noopener noreferrer"
         >
